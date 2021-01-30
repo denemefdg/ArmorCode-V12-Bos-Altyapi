@@ -1,1 +1,0 @@
-# armorcode-v12-bos-altyapi
